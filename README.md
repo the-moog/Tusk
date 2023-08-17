@@ -1,3 +1,8 @@
+This fork is (for the moment) just to look at the possibility of maintaining this code as Tusk (unlike other browser plugins) does not need a desktop proxy service
+this means that it is better for systems where the user has limited capabilities to install system level apps.
+First task: fix the very broken webdav.
+
+
 # Tusk is no longer actively maintained.
 
 * **Is it still safe?**  Yes. As far as the community is aware, Tusk's security model is still the same.  You may continue using Tusk, and I will keep the third party integrations (Dropbox, Google Drive, etc.) active.  Please contact me through [my website](https://subdavis.com) to report security concerns.
